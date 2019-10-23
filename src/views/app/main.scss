@@ -1,0 +1,12 @@
+.text {
+  font-size: 2rem;
+  &__color-red {
+    color: red
+  }
+  &__color-blue {
+    color: blue
+  }
+  &__color-yellow {
+    color: yellow
+  }
+}
